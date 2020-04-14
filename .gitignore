@@ -1,0 +1,17 @@
+app/.git
+app/.ruby-version
+app/Gemfile
+app/Gemfile.lock
+app/README.md
+app/Rakefile
+app/app
+app/bin
+app/config
+app/config.ru
+app/db
+app/lib
+app/log
+app/public
+app/storage
+app/tmp
+app/vendor
